@@ -1,3 +1,3 @@
-# Ola, mundo!!!
+# Olá, mundo!!!
  Meu primeiro repositório.
- Aprendendo Git e GitHub com Gustavo Guanabara
+ Aprendendo Git e GitHub no Curso em Vídeo.
